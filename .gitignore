@@ -1,0 +1,5 @@
+# Project exclude paths
+/venv/
+/.idea
+/SmallProjects/FaceIdentification/Faces/Oussama
+/SmallProjects/FaceIdentification/trainner.yml
